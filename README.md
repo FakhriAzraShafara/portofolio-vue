@@ -22,4 +22,4 @@ If you have any further questions or need assistance with anything else, please 
 
 # URL
 
-You can visit it here (https://portofolio-vue-one.vercel.app/contact).
+You can visit it here (https://portofolio-vue-one.vercel.app/).
