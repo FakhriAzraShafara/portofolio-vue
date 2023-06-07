@@ -38,7 +38,7 @@
 
             <div class="skills pb-4">
               <h2 class="section-title">Skills</h2>
-              <ul class="list-unstyled">
+              <ul>
                 <li>Express.js</li>
                 <li>Laravel</li>
                 <li>Vue.js</li>
@@ -54,21 +54,19 @@
             <div class="projects">
               <h2 class="section-title">My Own Projects</h2>
               <ul class="list-unstyled">
-                <ol>
-                  <ul class="text-bold">
-                    <li class="pb-2">
-                      <b>Projects (2022):</b> Dummy Website Pemesanan Tiket
-                      Kereta (Native), Dummy Website Admin and user role
-                      permission (Laravel), Dummy FPS Game (Unity, C#), Dummy
-                      Desktop Clinic Aplication (E-clipse, Java)
-                    </li>
-                    <li>
-                      <b>Projects (2023):</b> Portofolio on Basic Native,
-                      Portofolio with vue.js, Website Notification Downtime and
-                      Call leader (express, vue)
-                    </li>
-                  </ul>
-                </ol>
+                <ul class="text-justify">
+                  <li class="pb-2">
+                    <b>Projects (2022):</b> Dummy Website Pemesanan Tiket Kereta
+                    (Native), Dummy Website Admin and user role permission
+                    (Laravel), Dummy FPS Game (Unity, C#), Dummy Desktop Clinic
+                    Aplication (E-clipse, Java)
+                  </li>
+                  <li>
+                    <b>Projects (2023):</b> Portofolio on Basic Native,
+                    Portofolio with vue.js, Website Notification Downtime and
+                    Call leader (express, vue)
+                  </li>
+                </ul>
               </ul>
             </div>
           </div>

@@ -17,8 +17,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
-.container {
-  max-width: 60%;
-}
-</style>
+<style lang="scss" scoped></style>
