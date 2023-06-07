@@ -12,6 +12,7 @@
             <h2 class="profile-name">Fakhri Azra</h2>
             <p class="profile-title">Software Engineer</p>
           </div>
+
           <div class="">
             <div class="about-me pb-4">
               <h2 class="section-title">About me</h2>

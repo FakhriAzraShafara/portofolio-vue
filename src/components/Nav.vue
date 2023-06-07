@@ -22,7 +22,7 @@
             <router-link
               to="/"
               class="nav-link"
-              :class="{ 'bg-secondary text-dark': isActive('/') }"
+              :class="{ 'bg-secondary text-dark rounded-3': isActive('/') }"
             >
               Home
             </router-link>
@@ -32,7 +32,7 @@
               to="/project"
               class="nav-link"
               :class="{
-                'bg-secondary text-dark': isActive(
+                'bg-secondary text-dark rounded-3': isActive(
                   '/project',
                   '/project/:slug'
                 ),
@@ -45,7 +45,9 @@
             <router-link
               to="/contact"
               class="nav-link"
-              :class="{ 'bg-secondary text-dark': isActive('/contact') }"
+              :class="{
+                'bg-secondary text-dark rounded-3': isActive('/contact'),
+              }"
             >
               Contact
             </router-link>
